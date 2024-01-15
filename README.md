@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm an IT student :man_student:, passionate about programming :computer: and fan of space :artificial_satellite:
+I'm an web and mobile developer 👨‍💻, passionate about programming 💻 and astronomy 🔭
 
 My networks:
 - [LinkedIn](https://fr.linkedin.com/in/g-bonnet)
